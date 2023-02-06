@@ -1,0 +1,15 @@
+/Users/albertselev/Projects/123456/123456/obj/Debug/net7.0/123456.csproj.AssemblyReference.cache
+/Users/albertselev/Projects/123456/123456/obj/Debug/net7.0/123456.GeneratedMSBuildEditorConfig.editorconfig
+/Users/albertselev/Projects/123456/123456/obj/Debug/net7.0/123456.AssemblyInfoInputs.cache
+/Users/albertselev/Projects/123456/123456/obj/Debug/net7.0/123456.AssemblyInfo.cs
+/Users/albertselev/Projects/123456/123456/obj/Debug/net7.0/123456.csproj.CoreCompileInputs.cache
+/Users/albertselev/Projects/123456/123456/bin/Debug/net7.0/123456
+/Users/albertselev/Projects/123456/123456/bin/Debug/net7.0/123456.deps.json
+/Users/albertselev/Projects/123456/123456/bin/Debug/net7.0/123456.runtimeconfig.json
+/Users/albertselev/Projects/123456/123456/bin/Debug/net7.0/123456.dll
+/Users/albertselev/Projects/123456/123456/bin/Debug/net7.0/123456.pdb
+/Users/albertselev/Projects/123456/123456/obj/Debug/net7.0/123456.dll
+/Users/albertselev/Projects/123456/123456/obj/Debug/net7.0/refint/123456.dll
+/Users/albertselev/Projects/123456/123456/obj/Debug/net7.0/123456.pdb
+/Users/albertselev/Projects/123456/123456/obj/Debug/net7.0/123456.genruntimeconfig.cache
+/Users/albertselev/Projects/123456/123456/obj/Debug/net7.0/ref/123456.dll
